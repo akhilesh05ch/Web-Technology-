@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+     
+     <head>
+        <title>RESUME</title>
+     </head>
+     
+     <body>
+        
+       <!--PART_1-->
+       <fieldset>       
+       <font color="darkblue"><h2>Akhilesh Chennadi</h2></font>
+       <p><i><strong><font color="darkblue">An Enthusiastic Student🧑🏻‍🎓, Ambitious enough to learn and work.</font></strong></i></p>  
+       <font color="darkblue"><p><strong><i>🌏Hyderabad, Telangana, India.</strong></i></p></font>   
+       <a href="https://github.com/AkhileshCh" target="_blank">GITHUB</a> 😸<br>
+       <a href="https://www.codechef.com/users/akhilesh_ch" target="_blank">CodeChef</a> 👨🏼‍🍳<br>
+       <a href="https://www.hackerrank.com/profile/akhilesh_ch" target="_blank">HackerRank</a> 𝓗</center>
+       </fieldset><br>    
+       
+       <!--PART_2-->
+       <fieldset>        
+       <table border=2>
+          <h3><ins><i>EDUCATION</i></ins></h3>
+          <tr>
+            <th>COURSE</th>
+            <th>School/College</th>
+            <th>Year</th>
+          </tr>
+          <tr>
+            <td>10<sup>th</sup> Grade</td>
+            <td>Johnson Grammar School</td>
+            <td>2018-2019</td>
+          </tr>
+          <tr>
+            <td>12<sup>th</sup> Grade</td>
+            <td>Sri Chaitanya Junior College</td>
+            <td>2019-2021</td>
+          </tr>
+       </table>
+       
+       <h3><ins><i>SKILLS</i></ins></h3>
+       <ul>     
+       <li>C</li>
+       <li>C++</li>
+       <li>HTML</li>
+       <li>CSS</li>
+       <li>JavaScript</li>
+       <li>Python</li>
+       </ul>  
+
+       <h3><ins><i>CERTIFICATIONS</i></ins></h3>
+       <ol>
+       <li>Certificate in E-Business (Issued by NPTEL)</li>
+       <li>Certificate in Joy of Computing using Python (Issued by NPTEL)</li>
+       </ol>
+      
+       <h3><ins><i>PROJECTS</i></ins></h3>
+       <ol>
+       <li>Library Management System</li>
+       <li>Login and Registration System</li>
+       </ol>
+
+       <h3><ins><i>LANGUAGES</i></ins></h3>
+       <ul>     
+       <li>Telugu</li>
+       <li>Hindi</li>
+       <li>English</li>
+       </ul> 
+        
+       <h3><ins><i>INTERESTS</i></ins></h3>
+       <ul>
+       <li>Outdoor Games</li>
+       <li>Problem Solving</li>
+       <li>Listening to Music</li>
+       <li>Exercising</li>
+       </ul>
+       </fieldset><br>
+       
+       <!--PART_3-->
+       <fieldset>
+       <h3><ins><i>CONTACT</i></ins></h3>
+       ☎️9502976335<br>
+       📧akhileshrao_chennadi@srmap.edu.in
+       </fieldset>
+
+       </body>
+
+</html>
